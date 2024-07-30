@@ -6,4 +6,4 @@
 
 ### Start
 
-`npm run dev`
+`npm run dev -p partner_code`
